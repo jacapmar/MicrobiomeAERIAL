@@ -1,0 +1,13 @@
+# R specific
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# renv caches (safe to ignore)
+renv/library/
+renv/staging/
+
+# OS-specific
+.DS_Store
+Thumbs.db
