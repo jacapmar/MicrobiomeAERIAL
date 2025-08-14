@@ -6,7 +6,7 @@
 ## Structure
 - **data/** — input datasets used for analysis  
 - **RScripts/** — R scripts for processing, modeling, and plotting  
-- **AERIAL.Rproj** — RStudio project file  
+- **GITHUB.Rproj** — RStudio project file  
 
 ## Reproducibility
 We use [`renv`](https://rstudio.github.io/renv/) to manage package versions.
